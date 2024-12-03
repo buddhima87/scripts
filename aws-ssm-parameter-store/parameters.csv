@@ -1,0 +1,6 @@
+Name,Type,Value
+/application_name/environment/Key1,SecureString,value1
+/application_name/environment/Key2,SecureString,value2
+/application_name/environment/Key3,String,value3
+/application_name/environment/Key4,SecureString,value4
+/application_name/environment/Key5,String,value5
