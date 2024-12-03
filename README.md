@@ -43,6 +43,8 @@ To access the scripts, clone the repository:
 ```bash
 git clone https://github.com/your-repo/shell-scripts.git
 cd shell-scripts
+```
+
 
 ## **Best Practices**
 To ensure efficient and safe use of the shell scripts in this folder, follow these best practices:
