@@ -1,7 +1,7 @@
 # **Shell Scripts**
 
 ## **Overview**
-Welcome to the **Shell Scripts** repository! This folder contains a collection of reusable and automated shell scripts designed to simplify system tasks, enhance productivity, and automate processes. Each script is well-documented and adheres to industry best practices for maintainability and scalability.
+Welcome to the **Scripts** repository! This folder contains a collection of reusable and automated scripts designed to simplify system tasks, enhance productivity, and automate processes. Each script is well-documented and adheres to industry best practices for maintainability and scalability.
 
 ---
 
@@ -41,7 +41,7 @@ Before running the scripts, ensure the following:
 ### **1. Clone the Repository**
 To access the scripts, clone the repository:
 ```bash
-git clone https://github.com/your-repo/shell-scripts.git
+git clone https://github.com/your-repo/scripts.git
 cd shell-scripts
 ```
 
